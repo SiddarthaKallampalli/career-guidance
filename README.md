@@ -19,6 +19,9 @@ A website that will help students make career decisions based on their careeer i
  - JS
  - Javascript
  - Bootstrap
+
+## Live-link:
+https://career-guidance-five.vercel.app/
   
 ## Contact information
 [Linkedin](https://www.linkedin.com/in/samwel-chege-b069b618b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7fqY2RrWTXau9R%2FB2Uw4Bg%3D%3D)<br>
