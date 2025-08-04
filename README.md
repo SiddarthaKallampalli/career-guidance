@@ -24,5 +24,4 @@ A website that will help students make career decisions based on their careeer i
 https://career-guidance-five.vercel.app/
   
 ## Contact information
-[Linkedin](https://www.linkedin.com/in/samwel-chege-b069b618b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7fqY2RrWTXau9R%2FB2Uw4Bg%3D%3D)<br>
-[Email](samwelchegeh09@gmail.com)
+ https://www.linkedin.com/in/siddartha-kallampalli-a8982a2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
